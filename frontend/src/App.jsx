@@ -1,6 +1,6 @@
 import { RouterProvider } from "react-router-dom";
 import { Box } from "@chakra-ui/react";
-import { router } from "./router";
+import router from "./Router";
 
 function App() {
   return (
