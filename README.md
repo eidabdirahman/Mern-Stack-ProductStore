@@ -1,1 +1,1 @@
-# Mern-Stack-ProductStore
+# Mern-Stack-ProductStoreApp
